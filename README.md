@@ -24,7 +24,7 @@ This repository contains a web application for managing a sushi restaurant, deve
 - Knex.js for database queries
 - EJS for server-rendered views
 - Tailwind CSS for styling
-- SQLite / PostgreSQL (configurable via `src/config/db.js`)
+- MySQL
 
 ## Setup Instructions
 
@@ -71,4 +71,5 @@ EJS templates are organized under `src/views/`. Layouts and partials are used to
 ## Contribution
 
 Feel free to fork the repository and submit pull requests for new features or bug fixes.
+
 
